@@ -1,2 +1,0 @@
-# tyap-lyap.fun
-test
